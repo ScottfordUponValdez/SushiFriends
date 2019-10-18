@@ -1,0 +1,43 @@
+
+
+h1 {
+  background: linear-gradient(90deg, #ffffff, #F70000, #ffffff);
+  text-align: center;
+  margin: 50px, 50px, 50px, 50px;
+  font-family:
+  font-size: 45px;
+  color: black;
+}
+h2 {
+  color: white;
+}
+.topnav{
+  background-color: linear-gradient(90deg, #ffffff, #F70000, #ffffff);
+  overflow: hidden;
+
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover{
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: black;
+  color: white;
+}
+body{
+  margin: 0;
+  background: url("https://wallpaperaccess.com/full/22325.jpg");
+  background-size: cover;
+
+}
