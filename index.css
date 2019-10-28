@@ -1,5 +1,5 @@
 
-
+@media screen and (max-width: 481px){
 h1 {
   background: linear-gradient(90deg, #ffffff, #F70000, #ffffff);
   text-align: center;
@@ -367,3 +367,4 @@ div {
   height: auto;
   display:inline-block;
   }
+}
